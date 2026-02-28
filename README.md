@@ -3,7 +3,7 @@ Identificando suas Habilidades que Podem ser Remuneradas
 
 ---
 ## 📒 Descrição
-- Com o Mapa de Habilidades da DIO e apoio da IA, foi possível mapear competências, identificar áreas com maior potencial de remuneração e sugerir ocupações alinhadas às habilidades levantadas. Essa atividade fez parte do Bootcamp da DIO "CAIXA Inteligência Artificial na Prática".
+- Com o Mapa de Habilidades da DIO e apoio da IA, foi possível mapear competências, identificar áreas com maior potencial de remuneração e sugerir ocupações alinhadas às habilidades levantadas. Essa projeto fez parte do Bootcamp da DIO "CAIXA Inteligência Artificial na Prática".
 
 
 ## 🤖 Tecnologias Utilizadas
