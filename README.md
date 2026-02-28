@@ -27,8 +27,6 @@ Identificando suas Habilidades que Podem ser Remuneradas
 
 ### 2. Conteúdo Educacional e Tutoriais
 - Criar repositórios com **materiais de estudo** (ex.: guias de programação, tutoriais de automação, projetos práticos).  
-- Monetização:  
-- Oferecer cursos pagos complementares (via plataformas externas, mas divulgados pelo GitHub).  
 - Criar pacotes de exercícios ou e-books vinculados aos repositórios.  
 
 ---
